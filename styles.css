@@ -52,7 +52,7 @@ body
 }
 #paral1{
     margin-top: 0px !important;
-    min-height: 800px;
+    min-height: 200px;
     min-width: 300px;
 }
 #paralh1{
@@ -61,7 +61,7 @@ body
 #paralBh1{
     margin-top: 0%;
     font-size:60px;
-    min-width: 200px;
+    min-width: 300px;
 }
 #paralBp{
     font-size:30px;
@@ -74,7 +74,7 @@ body
 }
 .parallax-window {
     margin-top: 400px;
-    min-height: 600px;
+    min-height: 200px;
     min-width: 300px;
     background: transparent;
     z-index: 1;
@@ -82,7 +82,7 @@ body
 }
 .parallax-windowB {
     margin-top: 400px;
-    min-height: 700px;
+    min-height: 200px;
     min-width: 300px;
     background: transparent;
     z-index: 1;
@@ -92,7 +92,7 @@ body
     min-width: 300px;
     max-width: 100%;
     height: -webkit-fill-available;
-    min-height: 400px;
+    min-height: 200px;
     background: linear-gradient(rgba(204, 0, 255, 0.5), rgba(0, 0, 255, 0.5), black);
     background-size: cover;
     background-position-x: center;
@@ -255,7 +255,7 @@ body
 .col{
     min-width: 450px;
     max-width: 100%;
-    min-height:700px;
+    min-height:200px;
 }
 
 .fake{
@@ -270,7 +270,7 @@ body
 .canvas-cal {
     width: 100%;
     height: -webkit-fill-available;
-    min-height: 400px;
+    min-height: 200px;
     background-size: cover;
     background-position-x: center;
     margin:0px auto 300px auto;
